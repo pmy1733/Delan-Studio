@@ -19,9 +19,9 @@ https://github.com/pmy1733/delani-studio
 
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone https://github.com/PeterNjukia/Delani-Studio.git
+* git clone https://github.com/pmy1733/delani-studio
 
-* cd Delani_Studio_wk3
+* open the clonned project and open the index file
 
 * Launch the project in your favorite code editor. {code .}
 
